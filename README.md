@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shehreyar Sajid</h1>
 <h3 align="center">Developer and Ethical Hacker</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/YQitE4YNQNahy/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shehreyar26&label=Profile%20views&color=0e75b6&style=flat" alt="shehreyar26" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehreyar26" alt="shehreyar26" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 - 🔭 I’m currently working on **DevOps**
 
